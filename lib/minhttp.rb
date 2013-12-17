@@ -1,5 +1,5 @@
 require "minhttp/version"
+require "minhttp/requester"
 
-module Minhttp
-  # Your code goes here...
+module MinHTTP
 end

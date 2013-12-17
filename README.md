@@ -4,7 +4,7 @@ minhttp
 
 Minimalist HTTP
 =======
-# Minhttp
+# MinHTTP
 
 TODO: Write a gem description
 

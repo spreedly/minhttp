@@ -1,3 +1,3 @@
-module Minhttp
+module MinHTTP
   VERSION = "0.0.1"
 end

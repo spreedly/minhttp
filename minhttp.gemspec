@@ -5,9 +5,9 @@ require 'minhttp/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "minhttp"
-  spec.version       = Minhttp::VERSION
-  spec.authors       = ["Adam Williams"]
-  spec.email         = ["adam@thewilliams.ws"]
+  spec.version       = MinHTTP::VERSION
+  spec.authors       = ["Nathaniel Talbott", "Adam Williams"]
+  spec.email         = ["nathaniel@spreedly.com", "adam@spreedly.com"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
