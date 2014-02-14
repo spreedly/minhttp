@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = MinHTTP::VERSION
   spec.authors       = ["Nathaniel Talbott", "Adam Williams"]
   spec.email         = ["nathaniel@spreedly.com", "adam@spreedly.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.summary       = %q{A minimal HTTP request library.}
+  spec.description   = %q{A minimal HTTP request library. Tries to bring sanity to the net/http API.}
+  spec.homepage      = "https://github.com/spreedly/minhttp"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
